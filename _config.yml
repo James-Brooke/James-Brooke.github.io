@@ -1,2 +1,3 @@
-	name: James Brooke
-	markdown: kramdown
+name: James Brooke
+markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
